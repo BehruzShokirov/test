@@ -1,0 +1,3 @@
+[user]
+	user.email=test@test.ru
+	user.name=test
